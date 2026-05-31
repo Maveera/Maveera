@@ -115,9 +115,14 @@ class Maveera:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maveera&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide=contribs&card_width=400" alt="Maveera GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maveera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=6&border_radius=10&card_width=300" alt="Top Languages" />
+
+![Repos](https://img.shields.io/badge/Public_Repos-11-70a5fd?style=for-the-badge&logo=github&labelColor=0d1117)
+![Experience](https://img.shields.io/badge/SOC_Experience-2%2B_Years-bf91f3?style=for-the-badge&logo=fortinet&labelColor=0d1117)
+![Alerts](https://img.shields.io/badge/Alerts_Triaged_Daily-50--100%2B-38bdae?style=for-the-badge&logo=shield&labelColor=0d1117)
+![Tools](https://img.shields.io/badge/Security_Tools-15%2B-f7768e?style=for-the-badge&logo=hackthebox&labelColor=0d1117)
+![Certs](https://img.shields.io/badge/Certifications-7-e0af68?style=for-the-badge&logo=acclaim&labelColor=0d1117)
+![Coverage](https://img.shields.io/badge/Global_SOC_Coverage-EU_·_US_·_MEA_·_APAC-70a5fd?style=for-the-badge&logo=globe&labelColor=0d1117)
+
 </div>
 
 ---
@@ -140,9 +145,17 @@ class Maveera:
 
 ## 🏆 Trophy Wall
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maveera&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="Maveera Trophies" />
-</p>
+<div align="center">
+
+![CEH](https://img.shields.io/badge/🎓_Certified_Ethical_Hacker-EC--Council-red?style=for-the-badge&labelColor=0d1117)
+![FortiSIEM](https://img.shields.io/badge/🛡️_FortiSIEM_NSE-1_·_2_·_3_·_5-EE3124?style=for-the-badge&labelColor=0d1117)
+![EHE](https://img.shields.io/badge/🔐_Ethical_Hacking_Essentials-EC--Council-orange?style=for-the-badge&labelColor=0d1117)
+![IBM](https://img.shields.io/badge/🐍_Python_101-IBM-052FAD?style=for-the-badge&labelColor=0d1117)
+![GenAI](https://img.shields.io/badge/🤖_Intro_to_GenAI-Google-4285F4?style=for-the-badge&labelColor=0d1117)
+![WebHack](https://img.shields.io/badge/💻_Web_Hacking_Beginners-Certified-38bdae?style=for-the-badge&labelColor=0d1117)
+![Cato](https://img.shields.io/badge/☁️_Cato_Cloud_CCSP-Cato_Networks-bf91f3?style=for-the-badge&labelColor=0d1117)
+
+</div>
 
 ---
 
