@@ -71,7 +71,7 @@ class Maveera:
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![OpenCTI](https://img.shields.io/badge/OpenCTI-1A1A2E?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
+![OpenCTI](https://img.shields.io/badge/OpenCTI-1A1A2E?style=flat-square&logo=openbugbounty&logoColor=38bdae)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=flat-square&logoColor=white)
 ![YARA](https://img.shields.io/badge/YARA-F5A623?style=flat-square&logoColor=white)
 ![STIX/TAXII](https://img.shields.io/badge/STIX%2FTAXII-0078D4?style=flat-square&logoColor=white)
@@ -116,11 +116,15 @@ class Maveera:
 
 <div align="center">
   <a href="https://github.com/Maveera">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maveera&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maveera&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   </a>
   <a href="https://github.com/Maveera">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maveera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maveera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Maveera&cc=0d1117&tc=70a5fd&ic=bf91f3&bc=0d1117" />
 </div>
 
 ---
@@ -144,7 +148,7 @@ class Maveera:
 ## 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maveera&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Maveera&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" />
 </p>
 
 ---
