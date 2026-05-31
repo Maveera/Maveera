@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=SOC+Security+Analyst+%7C+SNS+Security;Cyber+Threat+Intelligence+%2B+CTI;Malware+Analyst+%7C+FLARE+VM+%2B+REMnux;Pentester+in+Progress+%E2%86%92+OSCP+Bound" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=SOC+Security+Analyst+%7C+Cyber+Security;Cyber+Threat+Intelligence+%2B+CTI;Malware+Analyst+%7C+FLARE+VM+%2B+REMnux;Pentester+in+Progress+%E2%86%92+OSCP+Bound" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 class Maveera:
     name       = "G.V Maveera"
     location   = "Chennai, India 🇮🇳"
-    role       = "SOC Security Analyst @ SNS Security"
+    role       = "SOC Security Analyst @ Cyber Security"
     education  = "B.Tech IT — MSEC (2023) | CGPA 8.12"
 
     stack = [
